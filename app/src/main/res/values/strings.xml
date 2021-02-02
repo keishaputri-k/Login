@@ -8,4 +8,8 @@
     <string name="txt_name">Name</string>
     <string name="txt_jenis">Jenis</string>
     <string name="txt_textview">TextView</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_cancel">cancel</string>
+    <string name="txt_update">Update</string>
 </resources>
